@@ -51,7 +51,7 @@ Test: "It will move all first consecutive consonants to the end of a word and ad
 code: pigLatin("code")
 Expected output: "odec" 
 
-Test: "it will move the qu to the end of a word starting with 'qu'"
+Test: "it will move the qu to the end of a word starting with 'QU'"
 code: pigLatin("quick")
 Expected output: "ickqu"
 
